@@ -22,7 +22,6 @@ Netflix Dataset with Title, Genre, Rating, Year, Country, etc.
 
 Movies & TV Shows distribution
 
-Netflix-Dashboard-
 Ratings breakdown
 
 Top 10 genres
@@ -30,3 +29,4 @@ Top 10 genres
 Year-wise growth trend
 
 Country-wise content availability
+
