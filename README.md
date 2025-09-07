@@ -1,7 +1,7 @@
 # Netflix-Dashboard
-This project is a Tableau dashboard analyzing Netflix Movies and TV Shows.
+This project is a Tableau dashboard analyzing Netflix Movies and TV Shows. <hr>
 
-Key Insights <hr>
+Key Insights
 -Movies: ~68%, TV Shows: ~32%
   
 -Most common ratings: TV-MA, TV-14, PG
@@ -10,15 +10,15 @@ Key Insights <hr>
   
 -Huge growth in content after 2015
   
--US leads in total titles
+-US leads in total titles <hr>
 
-🛠 Tools <hr>
+🛠 Tools 
 
 Tableau Public for visualization
 
-Netflix Dataset with Title, Genre, Rating, Year, Country, etc.
+Netflix Dataset with Title, Genre, Rating, Year, Country, etc. <hr>
 
-🚀 Features <hr>
+🚀 Features 
 
 Movies & TV Shows distribution
 
@@ -28,6 +28,6 @@ Top 10 genres
 
 Year-wise growth trend
 
-Country-wise content availability
+Country-wise content availability  <hr>
 
 Dashboard Preview <a href="https://github.com/muaaz90/Netflix-Dashboard/blob/main/Netflix-Dashboard.png"> View Dashboard</a>  
